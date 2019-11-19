@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ANJAN-MVC", "ANJAN-MVC\ANJAN-MVC.csproj", "{BEF43EC9-B58B-44C0-ACBC-BBAAF9053880}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEF43EC9-B58B-44C0-ACBC-BBAAF9053880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEF43EC9-B58B-44C0-ACBC-BBAAF9053880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEF43EC9-B58B-44C0-ACBC-BBAAF9053880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEF43EC9-B58B-44C0-ACBC-BBAAF9053880}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E686615-EF5E-4820-8B83-A97694F80137}
+	EndGlobalSection
+EndGlobal
